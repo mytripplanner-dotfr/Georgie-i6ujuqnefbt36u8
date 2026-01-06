@@ -1,0 +1,160 @@
+{
+  "pays": "Géorgie",
+  "drapeau": "🇬🇪",
+  "symbole": "⛰️",
+  "titre": "Escapade relaxante au cœur de la Géorgie",
+  "budget_total": "Environ 700 €/personne",
+  "duree": "4 jours",
+  "date_debut": "2026-02-18",
+  "date_fin": "2026-02-21",
+  "temps_vol": "8h (depuis Barbieres, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Tbilissi et premiers pas dans la capitale",
+      "legende": "Après un voyage confortable, installez-vous dans l'ambiance chaleureuse de Tbilissi. Une balade douce dans la vieille ville vous révélera ses charmes cachés, entre architecture historique et atmosphère vibrante. Laissez-vous imprégner par la culture locale en toute sérénité.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛬 Arrivée à Tbilissi</strong>: Atterrissage à l'aéroport international de Tbilissi et transfert vers votre hébergement.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous installer et de vous rafraîchir après le voyage.",
+        "<strong>🚶‍♀️ Balade relaxante dans la Vieille Ville</strong>: Découvrez les ruelles pavées, les maisons colorées et l'architecture unique de la vieille ville de Tbilissi, un véritable musée à ciel ouvert."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le décalage horaire avec la France est de +3 heures en février. Prévoyez une adaptation en douceur pour profiter pleinement de votre séjour."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🧖‍♀️",
+      "titre": "Détente et culture à Tbilissi",
+      "legende": "Plongez dans une tradition millénaire avec les célèbres bains de soufre, une expérience de relaxation profonde. L'après-midi, explorez des sites emblématiques offrant des vues imprenables et une immersion culturelle douce, loin de l'agitation.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🧖‍♀️ Matinée aux Bains de Soufre d'Abanotubani</strong>: Profitez d'une séance de relaxation et de purification dans les bains de soufre historiques, réputés pour leurs vertus thérapeutiques.",
+        "<strong>⛪ Visite de la Cathédrale de Sioni</strong>: Admirez l'architecture orthodoxe et la sérénité de cette cathédrale emblématique, un lieu de culte important au cœur de la ville.",
+        "<strong>🚠 Montée à la Forteresse de Narikala</strong>: Prenez le téléphérique pour atteindre la forteresse et profitez d'une vue panoramique spectaculaire sur Tbilissi, idéale pour des photos mémorables."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Abanotubani, Tbilissi",
+          "categorie": "Bains de soufre",
+          "coords": { "lat": 41.6880, "lng": 44.8090 }
+        },
+        {
+          "nom_recherche": "Cathédrale de Sioni, Tbilissi",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 41.6910, "lng": 44.8070 }
+        },
+        {
+          "nom_recherche": "Forteresse de Narikala, Tbilissi",
+          "categorie": "Forteresse",
+          "coords": { "lat": 41.6880, "lng": 44.8050 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Réservez votre bain de soufre à l'avance, surtout si vous souhaitez une salle privée. N'oubliez pas votre maillot de bain et une serviette !"
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Évasion historique à Mtskheta et retour à Tbilissi",
+      "legende": "Partez pour une excursion paisible vers Mtskheta, l'ancienne capitale, un site classé au patrimoine mondial de l'UNESCO. Imprégnez-vous de l'histoire et de la spiritualité des lieux avant de revenir à Tbilissi pour une dernière soirée relaxante.",
+      "lieu": "Mtskheta / Tbilissi",
+      "activites": [
+        "<strong>🚗 Excursion à Mtskheta</strong>: Visitez l'ancienne capitale de la Géorgie, un site classé au patrimoine mondial de l'UNESCO, facilement accessible depuis Tbilissi.",
+        "<strong>⛪ Découverte de la Cathédrale de Svetitskhoveli</strong>: Explorez cette magnifique cathédrale, l'un des lieux les plus sacrés de Géorgie, et admirez son architecture impressionnante.",
+        "<strong>🚶‍♀️ Promenade le long de la rivière Mtkvari à Tbilissi</strong>: Profitez d'une dernière balade tranquille le long des rives de la Mtkvari, offrant des vues charmantes sur la ville illuminée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mtskheta, Géorgie",
+          "categorie": "Ville historique",
+          "coords": { "lat": 41.8400, "lng": 44.7200 }
+        },
+        {
+          "nom_recherche": "Cathédrale de Svetitskhoveli, Mtskheta",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 41.8420, "lng": 44.7200 }
+        },
+        {
+          "nom_recherche": "Rivière Mtkvari, Tbilissi",
+          "categorie": "Point d'eau",
+          "coords": { "lat": 41.6900, "lng": 44.8000 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Des marshrutkas (minibus locaux) partent régulièrement de la gare de Didube à Tbilissi pour Mtskheta, offrant un moyen de transport économique et authentique."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 338 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 30 €/pers (local et excursion)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 100 €/pers (3 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 180 €/pers (3 nuits, base double 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 30 €/pers (bains, téléphérique)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Mai)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En février, les températures à Tbilissi varient entre 0 et 8°C. Prévoyez des vêtements chauds et imperméables, la neige est possible.", "symbole": "❄️" },
+    { "titre": "La monnaie locale est le Lari géorgien (GEL). Les cartes de crédit sont acceptées dans la plupart des établissements, mais ayez du liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "La langue officielle est le géorgien. L'anglais est de plus en plus parlé dans les zones touristiques, mais quelques mots de russe peuvent être utiles.", "symbole": "🗣️" },
+    { "titre": "Les prises électriques sont de type C et F (européennes), avec une tension de 220V. Pas besoin d'adaptateur si vous venez de France.", "symbole": "🔌" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "La Géorgie est considérée comme le berceau du vin, avec une tradition viticole ininterrompue de plus de 8 000 ans, utilisant des méthodes ancestrales comme les qvevris (jarres en argile)."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Le nom de la capitale, Tbilissi, vient du mot géorgien \"tbili\" qui signifie \"chaud\", en référence aux nombreuses sources d'eau chaude sulfureuses qui ont attiré les premiers habitants."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🧀",
+      "titre": "Khachapuri",
+      "description": "Un délicieux pain au fromage, souvent servi chaud et sous différentes formes régionales, comme l'Adjaruli Khachapuri avec un œuf et du beurre."
+    },
+    {
+      "symbole": "🥟",
+      "titre": "Khinkali",
+      "description": "De gros raviolis farcis de viande épicée (porc, bœuf ou agneau), de champignons ou de fromage, à déguster en tenant la pâte par le \"chignon\"."
+    },
+    {
+      "symbole": "🍬",
+      "titre": "Churchkhela",
+      "description": "Une friandise traditionnelle géorgienne, souvent appelée \"Snickers géorgien\", faite de noix enfilées et trempées dans un jus de raisin épaissi, puis séchées."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/LYS-TBS/2026-02-18/2026-02-21", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Géorgie", "url": "https://georgia.travel/", "symbole": "📘" },
+    { "legende": "Hébergements à Tbilissi", "titre": "Booking.com Tbilissi", "url": "https://www.booking.com/city/ge/tbilisi.fr.html", "symbole": "🛏️" },
+    { "legende": "Météo", "titre": "Météo Tbilissi", "url": "https://www.accuweather.com/fr/ge/tbilisi/295212/weather-forecast/295212", "symbole": "🌤️" }
+  ]
+}
